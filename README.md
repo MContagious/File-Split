@@ -6,7 +6,7 @@ Split text files by line numbers through pipe (for splitting file linus split -l
 Usage
 =====
 
-cat <some text file> | ./split.pl -l <numberof lines per chunk> <filename prefix>
+cat &lt;some text file&gt; | ./split.pl -l &lt;numberof lines per chunk&gt; &lt;filename prefix&gt;
 
 Ex:
 ===
